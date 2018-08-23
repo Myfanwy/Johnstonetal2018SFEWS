@@ -1,0 +1,46 @@
+Year,System,Route,Station,ParameterIndex,Rkm,ReachLength,Notes,X,Y
+2012,Yolo,Y,Release,1,159.3,0,NA,-121.64416,38.67762
+2012,Yolo,Y,I_80,2,146.4,12.9,NA,-121.58298,38.57309
+2012,Yolo,Y,Lisbon,3,135.4,11,NA,-121.588685,38.476309
+2012,Yolo,Y,Rstr,4,121.01,14.39,NA,-121.642931,38.353472
+2012,Yolo,Y,Base_TD,5,113.9,7.11,NA,-121.66068,38.29072
+2012,Yolo,Y,BC_joint,6,106.4,7.5,NA,-121.674627,38.228127
+2012,Yolo,A,MAE,7,69.19,37.21,NA,,
+2012,Yolo,A,MAW,8,68.87,0.32,NA,,
+2013,Yolo,Y,Release,1,159.3,0,NA,-121.64416,38.67762
+2013,Yolo,Y,I_80,9,146.4,12.9,NA,-121.58298,38.57309
+2013,Yolo,Y,Lisbon,10,135.4,11,NA,-121.588685,38.476309
+2013,Yolo,Y,Rstr,11,121.01,14.39,NA,-121.642931,38.353472
+2013,Yolo,Y,Base_TD,12,113.9,7.11,NA,-121.66068,38.29072
+2013,Yolo,B,BC_joint,13,106.4,7.5,NA,-121.674627,38.228127
+2013,Yolo,B,BC_joint2,14,105.9,0.5,NA,-121.673743,38.223181
+2013,Yolo,A,MAE,15,69.19,36.71,NA,,
+2013,Yolo,A,MAW,16,68.87,0.32,NA,,
+2012,Sac,A,Release,1,221.51,0,NA,,
+2012,Sac,A,RM88,17,217.49,4.02,NA,-121.69311,38.78797
+2012,Sac,A,RM71,19,207.36,10.13,NA,-121.63318,38.68499
+2012,Sac,A,RM80_5,18,192.01,15.35,NA,-121.63181,38.77539
+2012,Sac,A,RM61,20,175.21,16.8,NA,-121.52004,38.60357
+2012,Sac,B,Top_routeB,21,118.5566667,56.65333333,"represents multiple stations: Top_Sutter, Steamboat, UpperMiner.  Rkm is an average",,
+2012,Sac,B,Bottom_routeB,22,105.1666667,13.39,"represents multiple stations: Miner/BC_joint, BaseSteam.  Rkm is an average",,
+2012,Sac,C,Georgiana,23,120.17,55.04,NA,,
+2012,Sac,A,SacMouth,24,101.66,73.55,NA,-121.64831,38.17392
+2012,Sac,A,MAE,7,69.19,32.47,NA,,
+2012,Sac,A,MAW,8,68.87,0.32,NA,,
+2013,Sac,A,Release,1,221.51,0,NA,,
+2013,Sac,A,KLB,25,221.36,0.15,NA,,
+2013,Sac,A,MS01,26,219.06,2.3,NA,,
+2013,Sac,A,MS02,27,216.58,2.48,NA,,
+2013,Sac,A,MS0345,28,214.1633333,2.416666667,NA,,
+2013,Sac,A,MS06,29,207.83,6.333333333,NA,,
+2013,Sac,A,MS07,30,206.52,1.31,NA,,
+2013,Sac,A,MS08910,31,194.72,11.8,NA,,
+2013,Sac,A,MS11,32,175.21,19.51,NA,,
+2013,Sac,A,MS12,33,169.29,5.92,NA,,
+2013,Sac,A,MS13,34,147.45,21.84,NA,,
+2013,Sac,B,SutterSteamMiner,35,111.482,35.968,"represents multiple stations; sutter, steam, BC_joint, BC_joint2, BC_joint3.  Rkm is an average",,
+2013,Sac,C,Georgiana,36,120.17,27.28,NA,,
+2013,Sac,A,BlwGeorg,37,119.48,27.97,NA,,
+2013,Sac,A,BaseSac,38,102.24,17.24,NA,,
+2013,Sac,A,MAE,15,69.19,33.05,This is the reach length for BaseSac to MAE in route A; this reachlenght is not represented here for routes B and C,,
+2013,Sac,A,MAW,16,68.87,0.32,NA,,
